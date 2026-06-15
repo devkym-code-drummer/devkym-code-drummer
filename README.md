@@ -9,9 +9,17 @@
 
 ### Something about my work here
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flautistamacabro&theme=tokyonight" alt="mystreak"/>
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=flautistamacabro&amp;theme=tokyonight" 
+  alt="mystreak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=flautistamacabro&theme=tokyonight" alt="mystreak"/> -->
+
+<!-- Trophys -->
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=flautistamacabro&amp;theme
+  =juicyfresh&amp;no-bg=true" alt="trophies"/>
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=flautistamacabro&theme=juicyfresh&no-bg=true" /> -->
 
+<!-- Langs -->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=flautistamacabro&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
 
 ### Here some things that I code with
@@ -41,6 +49,7 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black" />
   <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-8b5cf6?style=flat-square&logo=obsidian&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white" />	
 </p>
 
 ### My Codewars status
