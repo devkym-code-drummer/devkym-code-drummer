@@ -10,7 +10,7 @@
 ### Something about my work here
 
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com/?user=flautistamacabro&amp;theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=flautistamacabro&theme=tokyonight" alt="mystreak"/>
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=flautistamacabro&theme=tokyonight" alt="mystreak"/> -->
 
 <!-- Trophys -->
