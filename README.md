@@ -14,6 +14,7 @@
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkym-code-drummer&theme=tokyonight" alt="mystreak"/> -->
 
 <!-- Trophys -->
+<img src="https://devkym-github-profile-trophy.vercel.app/?username=devkym-code-drummer&theme=juicyfresh&no-bg=true" alt="trophies"/>
 <!-- <img src="https://github-profile-trophy-fork-two.vercel.app/?username=devkym-code-drummer&amp;theme=juicyfresh&amp;no-bg=true" alt="trophies"/> -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=devkym-code-drummer&theme=juicyfresh&no-bg=true" /> -->
 
