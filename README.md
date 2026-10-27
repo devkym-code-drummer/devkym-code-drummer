@@ -10,15 +10,15 @@
 ### Something about my work here
 
 <!-- Streak -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=flautistamacabro&theme=tokyonight" alt="mystreak"/>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=flautistamacabro&theme=tokyonight" alt="mystreak"/> -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=devkym-code-drummer&theme=tokyonight" alt="mystreak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkym-code-drummer&theme=tokyonight" alt="mystreak"/> -->
 
 <!-- Trophys -->
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=flautistamacabro&amp;theme=juicyfresh&amp;no-bg=true" alt="trophies"/>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=flautistamacabro&theme=juicyfresh&no-bg=true" /> -->
+<!-- <img src="https://github-profile-trophy-fork-two.vercel.app/?username=devkym-code-drummer&amp;theme=juicyfresh&amp;no-bg=true" alt="trophies"/> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=devkym-code-drummer&theme=juicyfresh&no-bg=true" /> -->
 
 <!-- Langs -->
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=flautistamacabro&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=devkym-code-drummer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />-->
 
 ### Here some things that I code with
 <p>
@@ -55,11 +55,11 @@
 [![Codewars Badge](https://www.codewars.com/users/FlautistaMacabro/badges/large)](https://www.codewars.com/users/FlautistaMacabro)
 
 <h3>You can find me in</h3>
-<p><a href="https://github.com/FlautistaMacabro" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vinícius-pelegrineli-bombarda-b2b026239" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHDWXRGqNVQnrGCbHVTSFMsmBqGBDLTVWmgLsHcbmrwdvkbwpckxJDTHbGCmgpSdnBcCL" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23d74539.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<p><a href="https://github.com/devkym-code-drummer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vinícius-pelegrineli-bombarda-b2b026239" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlHDWXRGqNVQnrGCbHVTSFMsmBqGBDLTVWmgLsHcbmrwdvkbwpckxJDTHbGCmgpSdnBcCL" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23d74539.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
 <!--
-**FlautistaMacabro/FlautistaMacabro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**devkym-code-drummer/devkym-code-drummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
